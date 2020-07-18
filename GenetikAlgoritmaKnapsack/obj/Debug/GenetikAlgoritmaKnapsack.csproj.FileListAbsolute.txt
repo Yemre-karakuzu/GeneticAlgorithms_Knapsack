@@ -1,0 +1,7 @@
+C:\Users\ozgur\Desktop\GenetikAlgoritmaKnapsack\obj\Debug\GenetikAlgoritmaKnapsack.csprojAssemblyReference.cache
+C:\Users\ozgur\Desktop\GenetikAlgoritmaKnapsack\obj\Debug\GenetikAlgoritmaKnapsack.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\Desktop\GenetikAlgoritmaKnapsack\bin\Debug\GenetikAlgoritmaKnapsack.exe.config
+C:\Users\ozgur\Desktop\GenetikAlgoritmaKnapsack\bin\Debug\GenetikAlgoritmaKnapsack.exe
+C:\Users\ozgur\Desktop\GenetikAlgoritmaKnapsack\bin\Debug\GenetikAlgoritmaKnapsack.pdb
+C:\Users\ozgur\Desktop\GenetikAlgoritmaKnapsack\obj\Debug\GenetikAlgoritmaKnapsack.exe
+C:\Users\ozgur\Desktop\GenetikAlgoritmaKnapsack\obj\Debug\GenetikAlgoritmaKnapsack.pdb
